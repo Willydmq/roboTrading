@@ -1,4 +1,4 @@
-#1. Configuración del ambiente
+**#1. Configuración del ambiente**
 
 - Para empezar, puedes utilizar un entorno virtual como Google Colaboratory, o si deseas, puedes usar el editor Python de tu preferencia, sólo asegúrate de tener Python 3.x instalado en tu computadora.
 
@@ -55,7 +55,7 @@ print('------')
     Version: 3.7.1
 
 
-#2. Obtención de datos
+**#2. Obtención de datos**
 
 Crea una funcion ```importar_base_bitcoin()```, dentro de ella, define nuevamente las variables ```globales```(ver Paso1) y escribe tu código:
 
@@ -148,7 +148,7 @@ print(tendencia)
     alta
 
 
-#3. Limpieza de datos
+**#3. Limpieza de datos**
 
 Crea una funcion ```limpieza_datos()```, dentro de ella, define nuevamente las variables ```globales```(ver Paso1) y escribe tu código:
 
@@ -261,7 +261,7 @@ print(media_bitcoin)
     
 
 
-#4. Tomar decisiones
+**#4. Tomar decisiones**
 
 Llegó el momento de construir tu algoritmo de decisión:
 
@@ -330,7 +330,7 @@ print(algoritmo_decision)
     
 
 
-#5. Visualización
+**#5. Visualización**
 
 Crea una funcion ```visualizacion()```, dentro de ella, define nuevamente las variables ```globales```(ver Paso1) y escribe tu código:
 
@@ -419,7 +419,7 @@ visualizacion()
     
 
 
-#6. Automatización
+**#6. Automatización**
 
 El trabajo de un Data Scientist sólo termina cuando la solución al problema está automatizada, esto permite soluciones automáticas para nuevos lotes de información.
 
